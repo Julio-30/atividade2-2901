@@ -1,0 +1,1 @@
+Assim que é dado "run" na simulação, é necessário apertar o push button para acender todos os LEDs. Então, um por um vai apagando, a começar pelo LED verde, em seguida o azul e, por último, o vermelho. Enquanto qualquer um dos LEDs estiver aceso, o botão ficará inutilizado e só funcionará novamente quando todos os LEDs apagarem.
